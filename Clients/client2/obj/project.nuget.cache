@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "I+p2MZidEtI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dev Ark\\Documents\\Assignments\\Fourth_year_assignments_SEM1\\Distributed Databases\\Project\\Clients\\client2\\client2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dev Ark\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\Dev Ark\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Dev Ark\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Dev Ark\\.nuget\\packages\\npgsql\\9.0.2\\npgsql.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -5,7 +5,7 @@ using Microsoft.Data.SqlClient;
 {
     try
     {
-        IDbConnection dbConnection = new SqlConnection("Server=localhost,1433;User Id=sa;Password=TH1515TH3pa55w0rdf0rM55QL;TrustServerCertificate=true;");
+        IDbConnection dbConnection = new SqlConnection("Server=localhost,1433;User Id=sa;Database=university_db;Password=TH1515TH3pa55w0rdf0rM55QL;TrustServerCertificate=true;");
 
         dbConnection.Open();
         string? readLine;

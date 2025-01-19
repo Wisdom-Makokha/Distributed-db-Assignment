@@ -1,0 +1,1 @@
+SELECT p.FirstName, p.LastName, p.Department FROM Professors p ORDER BY p.Department, p.LastName;

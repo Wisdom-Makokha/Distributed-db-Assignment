@@ -18,3 +18,4 @@ C:\Users\Dev Ark\Documents\Assignments\Fourth_year_assignments_SEM1\Distributed 
 C:\Users\Dev Ark\Documents\Assignments\Fourth_year_assignments_SEM1\Distributed Databases\Project\Clients\client2\obj\Debug\net9.0\client2.pdb
 C:\Users\Dev Ark\Documents\Assignments\Fourth_year_assignments_SEM1\Distributed Databases\Project\Clients\client2\obj\Debug\net9.0\client2.genruntimeconfig.cache
 C:\Users\Dev Ark\Documents\Assignments\Fourth_year_assignments_SEM1\Distributed Databases\Project\Clients\client2\obj\Debug\net9.0\ref\client2.dll
+C:\Users\Dev Ark\Documents\Assignments\Fourth_year_assignments_SEM1\Distributed Databases\Project\Clients\client2\obj\Debug\net9.0\client2.sourcelink.json

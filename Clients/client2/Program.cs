@@ -23,6 +23,7 @@ using Npgsql;
                     break;
 
                 var result = dbConnection.Query(readLine);
+                
 
                 foreach (var row in result)
                 { Console.WriteLine(row); }
